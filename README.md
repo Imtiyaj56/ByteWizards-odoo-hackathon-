@@ -10,3 +10,7 @@ discarding them.
 
 Team_name :- ByteWizards
 github email :- imtiyajsunasara056@gmail.com
+Team leader:- Sunasara Imtiyaj Hussain Shabbir Ali
+Team member1 :- Fatavat arman lukman
+Team member2 :- Parmar pratham dipakbhai
+Team member3 :- Balwa Mohammad ali kasam
