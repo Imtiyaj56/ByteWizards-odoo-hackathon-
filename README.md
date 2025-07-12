@@ -8,9 +8,14 @@ through direct swaps or a point-based redemption system. The goal is to promote 
 fashion and reduce textile waste by encouraging users to reuse wearable garments instead of
 discarding them.
 
-Team_name :- ByteWizards
+Team_name :- ByteWizards \n
+
 github email :- imtiyajsunasara056@gmail.com
+
 Team leader:- Sunasara Imtiyaj Hussain Shabbir Ali
+
 Team member1 :- Fatavat arman lukman
+
 Team member2 :- Parmar pratham dipakbhai
+
 Team member3 :- Balwa Mohammad ali kasam
